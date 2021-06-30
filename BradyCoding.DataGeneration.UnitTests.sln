@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BradyCoding.DataGeneration.UnitTests", "BradyCoding.DataGeneration.UnitTests\BradyCoding.DataGeneration.UnitTests.csproj", "{DD2C8C5B-7B35-45DE-A72E-66D57023D29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmissionDataGenerator", "EmissionDataGenerator\EmissionDataGenerator.csproj", "{84D3AECC-3699-4182-9A75-E4CCBF5A8308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2C8C5B-7B35-45DE-A72E-66D57023D29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2C8C5B-7B35-45DE-A72E-66D57023D29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2C8C5B-7B35-45DE-A72E-66D57023D29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2C8C5B-7B35-45DE-A72E-66D57023D29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D3AECC-3699-4182-9A75-E4CCBF5A8308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D3AECC-3699-4182-9A75-E4CCBF5A8308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D3AECC-3699-4182-9A75-E4CCBF5A8308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D3AECC-3699-4182-9A75-E4CCBF5A8308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941B00F0-4A52-4B84-90CD-7D7131BD2FC8}
+	EndGlobalSection
+EndGlobal
